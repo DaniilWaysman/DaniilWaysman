@@ -8,3 +8,4 @@
 ### 🎬 Follow Me
 [![GitHub](https://img.shields.io/badge/-GitHub-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/DaniilWaysman)
 [![Telegram](https://img.shields.io/badge/-Telegram-1DA1F2?style=flat-square&logo=telegram&logoColor=white)](https://t.me/waysman)
+[![VK](https://img.shields.io/badge/-VK-1DA1F2?style=flat-square&logo=vk&logoColor=white)](https://vk.com/daniilwaysman)
