@@ -2,9 +2,6 @@
 
 ## Привет, я Даниил! 👋
 
-### Обо мне
-- Я увлекаюсь разработкой на Python и стремлюсь создавать полезные и эффективные решения для различных задач.
-
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=python,java,sqlite,django,vscode,pycharm,&theme=dark)](https://skillicons.dev)
 
