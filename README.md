@@ -1,6 +1,6 @@
 ![Header](https://github.com/DaniilWaysman/DaniilWaysman/blob/main/assets/Waysman.png)
 
-<h2 style="text-align: center;">Привет, я Даниил! 👋</p>
+## Привет, я Даниил! 👋
 
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=python,vscode,pycharm,idea,&theme=dark)](https://skillicons.dev)
