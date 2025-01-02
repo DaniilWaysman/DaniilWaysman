@@ -2,5 +2,9 @@
 
 ## Привет, я Даниил!<br>Разработчик на Python.
 
-# Languages and Tools
+### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=python,java,sqlite,django,vscode,pycharm,&theme=dark)](https://skillicons.dev)
+
+### Follow Me
+[![GitHub](https://img.shields.io/badge/-GitHub-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/DaniilWaysman)
+[![Telegram](https://img.shields.io/badge/-Telegram-1DA1F2?style=flat-square&logo=telegram&logoColor=white)](https://t.me/waysman)
