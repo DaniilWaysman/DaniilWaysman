@@ -13,3 +13,11 @@ My name is Daniil, and I'm a backend developer. I was born in Ukraine, but I've 
 
 <hr>
 <br>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilWaysman&layout=compact&theme=dark" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api?username=DaniilWaysman&show_icons=true&theme=dark" alt="GitHub Stats">
+</div>
+
+<hr>
+<br>
