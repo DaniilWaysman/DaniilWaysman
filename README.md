@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">🎲 Welcome!</h1>
 
-<!--
-**DaniilWaysman/DaniilWaysman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+My name is Daniil, and I'm a backend developer. I was born in Ukraine, but I've been living in the Czech Republic for about ten years. I love spending evenings watching movies. Love music
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+    <a href="https://discord.com/users/daniil__waysman" target="_blank"><img src="https://img.shields.io/badge/@daniil__waysman-black?style=flat&logo=Discord&logoColor=white" alt="Discord"></a>
+    <a href="https://t.me/waysman" target="_blank"><img src="https://img.shields.io/badge/Telegram-black?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a>
+    <a href="https://www.youtube.com/@waysman" target="_blank"><img src="https://img.shields.io/badge/Youtube-black?style=flat&logo=youtube&logoColor=white" alt="Youtube"></a>
+    <a href="https://steamcommunity.com/profiles/76561199749606755/" target="_blank"><img src="https://img.shields.io/badge/Steam-black?style=flat&logo=steam&logoColor=white" alt="Steam"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<br>
