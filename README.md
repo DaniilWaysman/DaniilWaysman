@@ -10,7 +10,7 @@
 <h2> Languages and Tools </h2>
 <p>
 <img src="https://img.shields.io/badge/Python-black?logo=python">
-<img src="https://img.shields.io/badge/Java-black?logo=java">
+<img src="https://img.shields.io/badge/Java-black?logo=openjdk">
 <img src="https://img.shields.io/badge/Html5-black?logo=html5">
 <img src="https://img.shields.io/badge/CSS3-black?logo=CSS"> <br>
 <img src="https://img.shields.io/badge/MySQL-black?logo=mysql">
@@ -23,5 +23,5 @@
 <a href="https://t.me/waysman">
     <img src="https://img.shields.io/badge/Telegram-black?logo=telegram" alt="Telegram">
 </a>
-<img src="https://img.shields.io/badge/wyllias-black?logo=discord" alt="Telegram">
+<img src="https://img.shields.io/badge/wyllias-black?logo=discord">
 </p>
